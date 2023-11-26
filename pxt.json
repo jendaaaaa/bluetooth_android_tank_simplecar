@@ -1,5 +1,5 @@
 {
-    "name": "BLUETOOTH_ANDROID_tank_simplecar",
+    "name": "BLUETOOTH-ANDROID-tank_simplecar",
     "description": "",
     "dependencies": {
         "core": "*",
